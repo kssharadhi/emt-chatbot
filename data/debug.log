@@ -1,1 +1,733 @@
-
+2025-10-03T12:23:11.267607 - Intent model trained successfully
+2025-10-03T12:40:16.965806 - Intent model trained successfully
+2025-10-03T12:53:20.520461 - Intent model trained successfully
+2025-10-03T12:58:07.872737 - Intent model trained successfully
+2025-10-03T12:58:46.875668 - Intent model trained successfully
+2025-10-03T13:01:05.607237 - Intent model trained successfully
+2025-10-03T13:05:00.544410 - Intent model trained successfully
+2025-10-03T13:05:02.176183 - Intent model trained successfully
+2025-10-03T13:17:46.727026 - Intent model trained successfully
+2025-10-03T13:19:10.184189 - Intent model trained successfully
+2025-10-03T13:19:13.217716 - Intent model trained successfully
+2025-10-03T13:23:32.379953 - Intent model trained successfully
+2025-10-03T13:23:35.758598 - Intent model trained successfully
+2025-10-03T13:24:01.006827 - New user registered: Surya
+2025-10-03T13:24:10.324024 - Started session for user: Surya
+2025-10-03T13:24:10.325022 - User logged in: Surya
+2025-10-03T13:24:24.296556 - Rule override: greeting
+2025-10-03T13:24:24.298068 - Generating canned reply for intent: greeting
+2025-10-03T13:24:29.181143 - Predicted intent: symptom_report with confidence: 0.775306321413055
+2025-10-03T13:24:29.185766 - Extracted symptoms: ['fever']
+2025-10-03T13:24:29.186798 - Query contains medical symptoms
+2025-10-03T13:24:29.187925 - Query has medical intent: symptom_report with confidence 0.775306321413055
+2025-10-03T13:24:29.189042 - Non-urgent triage level assigned
+2025-10-03T13:24:33.983815 - FAQ match found: what is fever
+2025-10-03T13:24:40.616103 - Predicted intent: symptom_report with confidence: 0.3361698193521889
+2025-10-03T13:24:40.618103 - Extracted symptoms: []
+2025-10-03T13:24:47.150183 - Predicted intent: symptom_report with confidence: 0.2831286978758805
+2025-10-03T13:24:47.153391 - Extracted symptoms: []
+2025-10-03T13:24:54.554358 - User logged out: Surya
+2025-11-16T10:14:07.481998 - Intent model trained successfully
+2025-11-16T10:14:17.311896 - Started session for user: Surya
+2025-11-16T10:14:17.313945 - User logged in: Surya
+2025-11-16T10:14:31.274281 - Rule override: greeting
+2025-11-16T10:14:31.275535 - Generating canned reply for intent: greeting
+2025-11-16T10:14:38.952886 - Predicted intent: symptom_report with confidence: 0.6570268399698861
+2025-11-16T10:14:38.956359 - Extracted symptoms: ['fever']
+2025-11-16T10:14:38.957784 - Query contains medical symptoms
+2025-11-16T10:14:38.957784 - Query has medical intent: symptom_report with confidence 0.6570268399698861
+2025-11-16T10:14:38.959217 - Non-urgent triage level assigned
+2025-11-16T10:16:07.162334 - Started session for user: Surya
+2025-11-16T10:16:07.163330 - User logged in: Surya
+2025-11-16T10:16:18.487727 - Predicted intent: med_info with confidence: 0.48692028231636425
+2025-11-16T10:16:18.488731 - Overrode intent to med_info based on keywords
+2025-11-16T10:18:13.537619 - User logged out: Surya
+2025-11-16T10:22:54.542250 - Intent model trained successfully
+2025-11-16T10:22:54.547371 - Created default admin user
+2025-11-16T10:22:56.940595 - Intent model trained successfully
+2025-11-16T10:23:16.491305 - Started session for user: Surya
+2025-11-16T10:23:16.492812 - User logged in: Surya
+2025-11-16T10:23:39.193858 - Started session for user: Surya
+2025-11-16T10:23:39.196021 - User logged in: Surya
+2025-11-16T10:23:47.757855 - Rule override: greeting
+2025-11-16T10:23:47.758853 - Generating canned reply for intent: greeting
+2025-11-16T10:23:53.556966 - Predicted intent: symptom_report with confidence: 0.6570268399698861
+2025-11-16T10:23:53.562634 - Extracted symptoms: ['fever'], fever temp: 101.0
+2025-11-16T10:23:53.563636 - Query contains medical symptoms
+2025-11-16T10:23:53.564645 - Query has medical intent: symptom_report with confidence 0.6570268399698861
+2025-11-16T10:23:53.565637 - Emergency alert triggered: High fever (100°F or above)
+2025-11-16T10:23:53.566632 - Emergency triage level assigned
+2025-11-16T10:24:02.061556 - User logged out: Surya
+2025-11-16T10:24:10.429722 - Started session for user: Surya
+2025-11-16T10:24:10.432735 - User logged in: Surya
+2025-11-16T10:24:22.415868 - Predicted intent: med_info with confidence: 0.48692028231636425
+2025-11-16T10:24:22.416996 - Overrode intent to med_info based on keywords
+2025-11-16T10:24:35.747073 - Predicted intent: med_info with confidence: 0.43303830911714497
+2025-11-16T10:24:35.748189 - Overrode intent to med_info based on keywords
+2025-11-16T10:40:03.567742 - Intent model trained successfully
+2025-11-16T10:40:04.681793 - Intent model trained successfully
+2025-11-16T10:40:18.410409 - User logged out: Surya
+2025-11-16T10:40:34.971822 - Login failed for user: Suma
+2025-11-16T10:40:44.869910 - Login failed for user: Suma
+2025-11-16T10:40:53.771051 - New user registered: Suma
+2025-11-16T10:41:00.385556 - Started session for user: Suma
+2025-11-16T10:41:00.386681 - User logged in: Suma
+2025-11-16T10:41:04.154150 - Rule override: greeting
+2025-11-16T10:41:04.154150 - Generating canned reply for intent: greeting
+2025-11-16T10:41:10.068303 - Predicted intent: symptom_report with confidence: 0.6570268399698861
+2025-11-16T10:41:10.070166 - Extracted symptoms: ['fever'], fever temp: 99.7
+2025-11-16T10:41:10.070166 - Query contains medical symptoms
+2025-11-16T10:41:10.071200 - Query has medical intent: symptom_report with confidence 0.6570268399698861
+2025-11-16T10:41:10.071200 - Emergency alert triggered: Low-grade fever (99°F or below)
+2025-11-16T10:41:10.071200 - Emergency triage level assigned
+2025-11-16T10:41:24.279985 - Predicted intent: symptom_report with confidence: 0.6570268399698861
+2025-11-16T10:41:24.281052 - Extracted symptoms: ['fever'], fever temp: 98.0
+2025-11-16T10:41:24.282127 - Query contains medical symptoms
+2025-11-16T10:41:24.282127 - Query has medical intent: symptom_report with confidence 0.6570268399698861
+2025-11-16T10:41:24.283180 - Emergency alert triggered: Low-grade fever (99°F or below)
+2025-11-16T10:41:24.283180 - Emergency triage level assigned
+2025-11-16T10:41:35.019656 - Predicted intent: symptom_report with confidence: 0.6570268399698861
+2025-11-16T10:41:35.021294 - Extracted symptoms: ['fever'], fever temp: 193.0
+2025-11-16T10:41:35.021294 - Query contains medical symptoms
+2025-11-16T10:41:35.022307 - Query has medical intent: symptom_report with confidence 0.6570268399698861
+2025-11-16T10:41:35.023320 - Emergency triage level assigned due to high fever
+2025-11-16T10:41:45.559387 - User logged out: Suma
+2025-11-16T10:52:43.260838 - Default admin user created
+2025-11-16T10:52:43.275716 - Intent model trained successfully
+2025-11-16T10:52:48.762016 - Intent model trained successfully
+2025-11-16T10:52:49.787372 - Intent model trained successfully
+2025-11-16T13:08:49.923903 - Intent model trained successfully
+2025-11-16T13:08:56.347154 - Intent model trained successfully
+2025-11-16T13:08:57.425533 - Intent model trained successfully
+2025-11-16T13:09:18.097313 - Started session for user: Surya
+2025-11-16T13:09:18.098820 - User logged in: Surya
+2025-11-16T13:09:23.440896 - Rule override: greeting
+2025-11-16T13:09:23.441909 - Generating canned reply for intent: greeting
+2025-11-16T13:09:32.678804 - Predicted intent: med_info with confidence: 0.48692028231636425
+2025-11-16T13:09:32.679865 - Overrode intent to med_info based on keywords
+2025-11-16T13:10:20.769473 - User logged out: Surya
+2025-11-16T13:10:49.764161 - Login failed for user: Madhu
+2025-11-16T13:10:59.183572 - New user registered: Madhu
+2025-11-16T13:11:04.962433 - Started session for user: Madhu
+2025-11-16T13:11:04.963610 - User logged in: Madhu
+2025-11-16T13:11:16.928546 - Rule override: greeting
+2025-11-16T13:11:16.929755 - Generating canned reply for intent: greeting
+2025-11-16T13:11:21.092896 - Predicted intent: symptom_report with confidence: 0.7753063214130533
+2025-11-16T13:11:21.094897 - Extracted symptoms: ['fever'], fever temp: 101.0
+2025-11-16T13:11:21.094897 - Query contains medical symptoms
+2025-11-16T13:11:21.094897 - Query has medical intent: symptom_report with confidence 0.7753063214130533
+2025-11-16T13:11:21.095904 - Emergency alert triggered: High fever (100°F or above)
+2025-11-16T13:11:21.095904 - Emergency triage level assigned
+2025-11-16T13:11:29.038926 - Predicted intent: symptom_report with confidence: 0.7753063214130533
+2025-11-16T13:11:29.039973 - Extracted symptoms: ['fever'], fever temp: None
+2025-11-16T13:11:29.039973 - Query contains medical symptoms
+2025-11-16T13:11:29.040951 - Query has medical intent: symptom_report with confidence 0.7753063214130533
+2025-11-16T13:11:29.040951 - Non-urgent triage level assigned
+2025-11-16T13:11:43.254959 - Predicted intent: med_info with confidence: 0.43303830911714497
+2025-11-16T13:11:43.255955 - Overrode intent to med_info based on keywords
+2025-11-16T13:23:47.579504 - Predicted intent: symptom_report with confidence: 0.23789426805007807
+2025-11-16T13:23:47.580521 - Extracted symptoms: [], fever temp: None
+2025-11-16T13:23:55.289146 - Predicted intent: symptom_report with confidence: 0.22952893700171922
+2025-11-16T13:23:55.291665 - Extracted symptoms: [], fever temp: None
+2025-11-16T13:24:04.191683 - Predicted intent: symptom_report with confidence: 0.26924411461984965
+2025-11-16T13:24:04.192740 - Extracted symptoms: [], fever temp: None
+2025-11-16T13:28:04.012535 - Intent model trained successfully
+2025-11-16T13:28:06.761734 - Intent model trained successfully
+2025-11-16T13:28:17.210913 - Intent model trained successfully
+2025-11-16T13:28:18.331668 - Intent model trained successfully
+2025-11-16T13:28:25.741467 - User logged out: Madhu
+2025-11-16T13:28:48.990215 - User logged out: Surya
+2025-11-16T13:28:55.690018 - Started session for user: Surya
+2025-11-16T13:28:55.691027 - User logged in: Surya
+2025-11-16T13:29:03.724952 - Started session for user: Madhu
+2025-11-16T13:29:03.724952 - User logged in: Madhu
+2025-11-16T13:31:26.145721 - User logged out: Madhu
+2025-11-16T13:31:37.780963 - Started session for user: Surya
+2025-11-16T13:31:37.781466 - User logged in: Surya
+2025-11-16T13:32:40.680924 - Started session for user: admin
+2025-11-16T13:32:40.680924 - User logged in: admin
+2025-11-16T13:32:49.458258 - Rule override: greeting
+2025-11-16T13:32:49.459592 - Generating canned reply for intent: greeting
+2025-11-16T13:32:53.397469 - Predicted intent: symptom_report with confidence: 0.7753063214130533
+2025-11-16T13:32:53.399667 - Extracted symptoms: ['fever'], fever temp: 101.0
+2025-11-16T13:32:53.400680 - Query contains medical symptoms
+2025-11-16T13:32:53.400680 - Query has medical intent: symptom_report with confidence 0.7753063214130533
+2025-11-16T13:32:53.400680 - Emergency alert triggered: High fever (100°F or above)
+2025-11-16T13:32:53.402033 - Emergency triage level assigned
+2025-11-16T13:33:07.437680 - Predicted intent: med_info with confidence: 0.48692028231636425
+2025-11-16T13:33:07.438736 - Overrode intent to med_info based on keywords
+2025-11-16T13:33:31.481880 - Login failed for user: K S
+2025-11-16T13:33:45.534491 - New user registered: K S
+2025-11-16T13:33:51.885398 - Started session for user: K S
+2025-11-16T13:33:51.885398 - User logged in: K S
+2025-11-16T13:34:03.117663 - Predicted intent: med_info with confidence: 0.48692028231636425
+2025-11-16T13:34:03.118671 - Overrode intent to med_info based on keywords
+2025-11-16T13:36:00.002952 - User logged out: Surya
+2025-11-16T13:37:52.305141 - Predicted intent: symptom_report with confidence: 0.5034888530241343
+2025-11-16T13:37:52.306140 - Extracted symptoms: ['sore throat'], fever temp: None
+2025-11-16T13:37:52.307137 - Query contains medical symptoms
+2025-11-16T13:37:52.307137 - Query has medical intent: symptom_report with confidence 0.5034888530241343
+2025-11-16T13:37:52.307137 - Non-urgent triage level assigned
+2025-11-16T13:38:46.681374 - Predicted intent: general_knowledge with confidence: 0.8394288351480048
+2025-11-16T13:43:17.759822 - FAQ match found: what is fever
+2025-11-16T13:43:22.868067 - FAQ match found: what is cough
+2025-11-16T13:43:31.958477 - Predicted intent: general_knowledge with confidence: 0.4794050532520383
+2025-11-16T13:43:39.442648 - FAQ match found: what is chest pain
+2025-11-16T13:45:31.639034 - Predicted intent: symptom_report with confidence: 0.29698092662282
+2025-11-16T13:45:31.641030 - Extracted symptoms: [], fever temp: None
+2025-11-16T13:46:39.603778 - Predicted intent: symptom_report with confidence: 0.5329878279933624
+2025-11-16T13:46:39.605902 - Extracted symptoms: ['back pain'], fever temp: None
+2025-11-16T13:46:39.607404 - Query contains medical symptoms
+2025-11-16T13:46:39.608406 - Query has medical intent: symptom_report with confidence 0.5329878279933624
+2025-11-16T13:46:39.609714 - Non-urgent triage level assigned
+2025-11-16T13:47:29.095298 - Predicted intent: symptom_report with confidence: 0.42024197423862863
+2025-11-16T13:47:29.096801 - Extracted symptoms: ['heartburn'], fever temp: None
+2025-11-16T13:47:29.098180 - Query contains medical symptoms
+2025-11-16T13:47:29.098180 - Non-urgent triage level assigned
+2025-11-16T13:59:37.430042 - Intent model trained successfully
+2025-11-16T14:07:15.964861 - Intent model trained successfully
+2025-11-16T14:07:17.128949 - Intent model trained successfully
+2025-11-16T14:07:24.821051 - User logged out: Surya
+2025-11-17T11:17:07.312024 - Intent model trained successfully
+2025-11-17T11:17:09.644533 - Intent model trained successfully
+2025-11-17T11:17:43.140966 - Started session for user: Suma
+2025-11-17T11:17:43.142966 - User logged in: Suma
+2025-11-17T11:17:55.059143 - Predicted intent: non_medical with confidence: 0.2255556917362098
+2025-11-17T11:17:55.061558 - Overrode intent to med_info based on keywords
+2025-11-17T11:17:55.063577 - Query has medical intent: med_info with confidence 0.2255556917362098
+2025-11-17T11:17:55.065082 - Generating canned reply for intent: med_info
+2025-11-17T11:17:55.066268 - Provided medication info for: ibuprofen
+2025-11-17T11:18:06.069245 - Predicted intent: non_medical with confidence: 0.22882892752409897
+2025-11-17T11:18:06.070242 - Overrode intent to med_info based on keywords
+2025-11-17T11:18:06.072244 - Query has medical intent: med_info with confidence 0.22882892752409897
+2025-11-17T11:18:06.074797 - Generating canned reply for intent: med_info
+2025-11-17T11:18:06.074797 - Provided medication info for: paracetamol
+2025-11-17T11:18:19.185498 - Predicted intent: non_medical with confidence: 0.2644766816384494
+2025-11-17T11:18:19.187528 - Overrode intent to med_info based on keywords
+2025-11-17T11:18:19.188563 - Query has medical intent: med_info with confidence 0.2644766816384494
+2025-11-17T11:18:19.190724 - Generating canned reply for intent: med_info
+2025-11-17T11:18:19.191721 - No medication found in query
+2025-11-17T11:18:51.540600 - Predicted intent: symptom_report with confidence: 0.28288321424571117
+2025-11-17T11:18:51.547020 - Extracted symptoms: [], fever temp: None
+2025-11-17T11:19:00.441606 - Predicted intent: med_info with confidence: 0.22527472964828726
+2025-11-17T11:19:00.443600 - Overrode intent to med_info based on keywords
+2025-11-17T11:19:00.445113 - Query has medical intent: med_info with confidence 0.22527472964828726
+2025-11-17T11:19:00.446199 - Generating canned reply for intent: med_info
+2025-11-17T11:19:00.448194 - Provided medication info for: prednisone
+2025-11-17T11:19:10.655325 - Predicted intent: general_knowledge with confidence: 0.29530675994465405
+2025-11-17T11:19:24.366569 - Predicted intent: symptom_report with confidence: 0.6557423821831252
+2025-11-17T11:19:24.370841 - Extracted symptoms: ['fever'], fever temp: 99.0
+2025-11-17T11:19:24.372101 - Query contains medical symptoms
+2025-11-17T11:19:24.374093 - Query has medical intent: symptom_report with confidence 0.6557423821831252
+2025-11-17T11:19:24.375605 - Emergency alert triggered: Low-grade fever (99°F or below)
+2025-11-17T11:19:24.377825 - Emergency triage level assigned
+2025-11-17T11:19:43.942417 - Predicted intent: symptom_report with confidence: 0.6557423821831252
+2025-11-17T11:19:43.946185 - Extracted symptoms: ['fever'], fever temp: 100.0
+2025-11-17T11:19:43.947354 - Query contains medical symptoms
+2025-11-17T11:19:43.948357 - Query has medical intent: symptom_report with confidence 0.6557423821831252
+2025-11-17T11:19:43.949689 - Emergency alert triggered: High fever (100°F or above)
+2025-11-17T11:19:43.951141 - Emergency triage level assigned
+2025-11-17T11:20:03.251201 - Predicted intent: symptom_report with confidence: 0.6557423821831252
+2025-11-17T11:20:03.254039 - Extracted symptoms: ['fever'], fever temp: 98.0
+2025-11-17T11:20:03.255080 - Query contains medical symptoms
+2025-11-17T11:20:03.255080 - Query has medical intent: symptom_report with confidence 0.6557423821831252
+2025-11-17T11:20:03.257446 - Emergency alert triggered: Low-grade fever (99°F or below)
+2025-11-17T11:20:03.257446 - Emergency triage level assigned
+2025-11-17T11:22:36.369581 - FAQ match found: what is fever
+2025-11-17T11:22:42.747944 - FAQ match found: what is chest pain
+2025-11-17T11:22:47.110654 - Predicted intent: symptom_report with confidence: 0.5833558762814518
+2025-11-17T11:22:47.114273 - Extracted symptoms: ['tooth pain'], fever temp: None
+2025-11-17T11:22:47.115404 - Query contains medical symptoms
+2025-11-17T11:22:47.116408 - Query has medical intent: symptom_report with confidence 0.5833558762814518
+2025-11-17T11:22:47.118981 - Non-urgent triage level assigned
+2025-11-17T11:22:57.634904 - Predicted intent: symptom_report with confidence: 0.2792414016686371
+2025-11-17T11:22:57.637563 - Extracted symptoms: [], fever temp: None
+2025-11-17T11:23:07.558892 - Predicted intent: non_medical with confidence: 0.22882892752409897
+2025-11-17T11:23:07.560001 - Overrode intent to med_info based on keywords
+2025-11-17T11:23:07.562121 - Query has medical intent: med_info with confidence 0.22882892752409897
+2025-11-17T11:23:07.563270 - Generating canned reply for intent: med_info
+2025-11-17T11:23:07.565688 - Provided medication info for: paracetamol
+2025-11-17T11:35:34.048485 - Intent model trained successfully
+2025-11-17T11:35:38.963575 - Intent model trained successfully
+2025-11-17T11:35:42.546143 - Intent model trained successfully
+2025-11-17T11:35:50.490353 - User logged out: Suma
+2025-11-17T11:35:56.806584 - Started session for user: Surya
+2025-11-17T11:35:56.808585 - User logged in: Surya
+2025-11-17T11:36:00.984675 - Rule override: greeting
+2025-11-17T11:36:00.986851 - Generating canned reply for intent: greeting
+2025-11-17T11:36:06.568700 - Predicted intent: symptom_report with confidence: 0.6557423821831252
+2025-11-17T11:36:06.574680 - Extracted symptoms: ['fever'], fever temp: 99.0
+2025-11-17T11:36:06.577286 - Query contains medical symptoms
+2025-11-17T11:36:06.579455 - Query has medical intent: symptom_report with confidence 0.6557423821831252
+2025-11-17T11:36:06.580449 - Emergency alert triggered: Low-grade fever (99°F or below)
+2025-11-17T11:36:06.582608 - Emergency triage level assigned
+2025-11-17T11:36:20.431604 - Intent model trained successfully
+2025-11-17T11:36:33.789359 - Intent model trained successfully
+2025-11-17T11:36:36.333568 - Intent model trained successfully
+2025-11-17T11:36:49.927716 - Rule override: greeting
+2025-11-17T11:36:49.928851 - Generating canned reply for intent: greeting
+2025-11-17T11:36:55.030784 - Predicted intent: symptom_report with confidence: 0.6557423821831252
+2025-11-17T11:36:55.037124 - Extracted symptoms: ['fever'], fever temp: 99.0
+2025-11-17T11:36:55.038600 - Query contains medical symptoms
+2025-11-17T11:36:55.040074 - Query has medical intent: symptom_report with confidence 0.6557423821831252
+2025-11-17T11:36:55.041690 - Emergency alert triggered: Low-grade fever (99°F or below)
+2025-11-17T11:36:55.043190 - Emergency triage level assigned
+2025-11-17T11:37:03.351204 - Predicted intent: symptom_report with confidence: 0.6557423821831252
+2025-11-17T11:37:03.353520 - Extracted symptoms: ['fever'], fever temp: 100.0
+2025-11-17T11:37:03.355544 - Query contains medical symptoms
+2025-11-17T11:37:03.356542 - Query has medical intent: symptom_report with confidence 0.6557423821831252
+2025-11-17T11:37:03.359173 - Emergency alert triggered: High fever (100°F or above)
+2025-11-17T11:37:03.360624 - Emergency triage level assigned
+2025-11-17T11:37:17.050703 - Predicted intent: non_medical with confidence: 0.2255556917362098
+2025-11-17T11:37:17.053266 - Overrode intent to med_info based on keywords
+2025-11-17T11:37:17.054060 - Query has medical intent: med_info with confidence 0.2255556917362098
+2025-11-17T11:37:17.056446 - Generating canned reply for intent: med_info
+2025-11-17T11:37:17.056446 - Provided medication info for: ibuprofen
+2025-11-17T11:37:22.392917 - FAQ match found: what is fever
+2025-11-17T11:37:26.991890 - Predicted intent: symptom_report with confidence: 0.7093237524309343
+2025-11-17T11:37:26.995932 - Extracted symptoms: ['cough'], fever temp: None
+2025-11-17T11:37:26.997924 - Query contains medical symptoms
+2025-11-17T11:37:26.999313 - Query has medical intent: symptom_report with confidence 0.7093237524309343
+2025-11-17T11:37:27.000368 - Non-urgent triage level assigned
+2025-11-17T11:37:36.228693 - FAQ match found: what is chest pain
+2025-11-17T11:37:39.969147 - Predicted intent: symptom_report with confidence: 0.5746265395626637
+2025-11-17T11:37:39.972137 - Extracted symptoms: ['bleeding'], fever temp: None
+2025-11-17T11:37:39.973644 - Query contains medical symptoms
+2025-11-17T11:37:39.975663 - Query has medical intent: symptom_report with confidence 0.5746265395626637
+2025-11-17T11:37:39.976714 - Urgent triage level assigned due to critical symptoms
+2025-11-17T11:38:01.064235 - Predicted intent: symptom_report with confidence: 0.7746086066237051
+2025-11-17T11:38:01.066910 - Extracted symptoms: ['fever'], fever temp: None
+2025-11-17T11:38:01.069504 - Query contains medical symptoms
+2025-11-17T11:38:01.070500 - Query has medical intent: symptom_report with confidence 0.7746086066237051
+2025-11-17T11:38:01.072594 - Non-urgent triage level assigned
+2025-11-17T11:38:06.499448 - Predicted intent: symptom_report with confidence: 0.6557423821831252
+2025-11-17T11:38:06.503436 - Extracted symptoms: ['fever'], fever temp: 99.0
+2025-11-17T11:38:06.504432 - Query contains medical symptoms
+2025-11-17T11:38:06.505429 - Query has medical intent: symptom_report with confidence 0.6557423821831252
+2025-11-17T11:38:06.508077 - Emergency alert triggered: Low-grade fever (99°F or below)
+2025-11-17T11:38:06.509072 - Emergency triage level assigned
+2025-11-17T12:02:24.847997 - Intent model trained successfully
+2025-11-17T12:02:26.812331 - Intent model trained successfully
+2025-11-17T12:02:35.481195 - Rule override: greeting
+2025-11-17T12:02:35.482701 - Generating canned reply for intent: greeting
+2025-11-17T12:02:39.594147 - Predicted intent: symptom_report with confidence: 0.6557423821831252
+2025-11-17T12:02:39.597444 - Extracted symptoms: ['fever'], fever temp: 99.0
+2025-11-17T12:02:39.599476 - Query contains medical symptoms
+2025-11-17T12:02:39.600658 - Query has medical intent: symptom_report with confidence 0.6557423821831252
+2025-11-17T12:02:39.603155 - Emergency alert triggered: Low-grade fever (99°F or below)
+2025-11-17T12:02:39.604213 - Emergency triage level assigned
+2025-11-17T12:04:11.511608 - Started session for user: Suma
+2025-11-17T12:04:11.513607 - User logged in: Suma
+2025-11-17T12:04:14.763599 - Rule override: greeting
+2025-11-17T12:04:14.764989 - Generating canned reply for intent: greeting
+2025-11-17T12:04:19.695113 - Predicted intent: symptom_report with confidence: 0.6557423821831252
+2025-11-17T12:04:19.698974 - Extracted symptoms: ['fever'], fever temp: 99.0
+2025-11-17T12:04:19.701966 - Query contains medical symptoms
+2025-11-17T12:04:19.703393 - Query has medical intent: symptom_report with confidence 0.6557423821831252
+2025-11-17T12:04:19.704407 - Emergency alert triggered: Low-grade fever (99°F or below)
+2025-11-17T12:04:19.705413 - Emergency triage level assigned
+2025-11-17T12:04:28.519399 - Predicted intent: symptom_report with confidence: 0.6557423821831252
+2025-11-17T12:04:28.522566 - Extracted symptoms: ['fever'], fever temp: 100.0
+2025-11-17T12:04:28.524574 - Query contains medical symptoms
+2025-11-17T12:04:28.526564 - Query has medical intent: symptom_report with confidence 0.6557423821831252
+2025-11-17T12:04:28.526564 - Emergency alert triggered: High fever (100°F or above)
+2025-11-17T12:04:28.529151 - Emergency triage level assigned
+2025-11-17T12:04:52.847694 - Predicted intent: non_medical with confidence: 0.2255556917362098
+2025-11-17T12:04:52.849202 - Overrode intent to med_info based on keywords
+2025-11-17T12:04:52.850220 - Query has medical intent: med_info with confidence 0.2255556917362098
+2025-11-17T12:04:52.852511 - Generating canned reply for intent: med_info
+2025-11-17T12:04:52.853508 - Provided medication info for: ibuprofen
+2025-11-17T12:13:39.249383 - Intent model trained successfully
+2025-11-17T12:13:48.376882 - Intent model trained successfully
+2025-11-17T12:13:51.739908 - Intent model trained successfully
+2025-11-17T12:14:29.198988 - Rule override: greeting
+2025-11-17T12:14:29.201030 - Generating canned reply for intent: greeting
+2025-11-17T12:14:34.381670 - Predicted intent: symptom_report with confidence: 0.6557423821831252
+2025-11-17T12:14:34.386489 - Extracted symptoms: ['fever'], fever temp: 100.0
+2025-11-17T12:14:34.386489 - Query contains medical symptoms
+2025-11-17T12:14:34.389028 - Query has medical intent: symptom_report with confidence 0.6557423821831252
+2025-11-17T12:14:34.391151 - Emergency alert triggered: High fever (100°F or above)
+2025-11-17T12:14:34.392146 - Emergency triage level assigned
+2025-11-17T12:14:41.753465 - Predicted intent: symptom_report with confidence: 0.6557423821831252
+2025-11-17T12:14:41.755987 - Extracted symptoms: ['fever'], fever temp: 99.0
+2025-11-17T12:14:41.757991 - Query contains medical symptoms
+2025-11-17T12:14:41.757991 - Query has medical intent: symptom_report with confidence 0.6557423821831252
+2025-11-17T12:14:41.758993 - Emergency alert triggered: Low-grade fever (99°F or below)
+2025-11-17T12:14:41.759989 - Emergency triage level assigned
+2025-11-17T12:14:51.619285 - Predicted intent: symptom_report with confidence: 0.6557423821831252
+2025-11-17T12:14:51.623299 - Extracted symptoms: ['fever'], fever temp: 98.0
+2025-11-17T12:14:51.624316 - Query contains medical symptoms
+2025-11-17T12:14:51.626310 - Query has medical intent: symptom_report with confidence 0.6557423821831252
+2025-11-17T12:14:51.627964 - Emergency alert triggered: Low-grade fever (99°F or below)
+2025-11-17T12:14:51.629381 - Emergency triage level assigned
+2025-11-17T12:14:59.326496 - User logged out: Surya
+2025-11-17T12:15:11.979908 - New user registered: Sujatha
+2025-11-17T12:15:24.896750 - Login failed for user: Sujatha
+2025-11-17T12:15:33.794745 - Login failed for user: Sujatha
+2025-11-17T12:15:52.422486 - Login failed for user: Suji
+2025-11-17T12:16:01.248099 - New user registered: Suji
+2025-11-17T12:16:07.582772 - Started session for user: Suji
+2025-11-17T12:16:07.583812 - User logged in: Suji
+2025-11-17T12:16:10.462754 - Rule override: greeting
+2025-11-17T12:16:10.463750 - Generating canned reply for intent: greeting
+2025-11-17T12:16:15.989705 - Predicted intent: symptom_report with confidence: 0.6557423821831252
+2025-11-17T12:16:15.993676 - Extracted symptoms: ['fever'], fever temp: 100.0
+2025-11-17T12:16:15.995886 - Query contains medical symptoms
+2025-11-17T12:16:15.996907 - Query has medical intent: symptom_report with confidence 0.6557423821831252
+2025-11-17T12:16:15.998201 - Emergency alert triggered: High fever (100°F or above)
+2025-11-17T12:16:16.000761 - Emergency triage level assigned
+2025-11-17T12:16:21.138739 - Predicted intent: symptom_report with confidence: 0.6557423821831252
+2025-11-17T12:16:21.142319 - Extracted symptoms: ['fever'], fever temp: 99.0
+2025-11-17T12:16:21.143642 - Query contains medical symptoms
+2025-11-17T12:16:21.144966 - Query has medical intent: symptom_report with confidence 0.6557423821831252
+2025-11-17T12:16:21.146020 - Emergency alert triggered: Low-grade fever (99°F or below)
+2025-11-17T12:16:21.147122 - Emergency triage level assigned
+2025-11-17T12:16:37.544367 - Predicted intent: non_medical with confidence: 0.2255556917362098
+2025-11-17T12:16:37.546548 - Overrode intent to med_info based on keywords
+2025-11-17T12:16:37.547632 - Query has medical intent: med_info with confidence 0.2255556917362098
+2025-11-17T12:16:37.548716 - Generating canned reply for intent: med_info
+2025-11-17T12:16:37.549715 - Provided medication info for: ibuprofen
+2025-11-17T12:24:43.904147 - Intent model trained successfully
+2025-11-17T12:24:48.271346 - Intent model trained successfully
+2025-11-17T12:24:50.525530 - Intent model trained successfully
+2025-11-17T12:24:53.436376 - User logged out: Suji
+2025-11-17T12:25:10.554151 - Login failed for user: Suji
+2025-11-17T12:25:19.430813 - Started session for user: Suji
+2025-11-17T12:25:19.432096 - User logged in: Suji
+2025-11-17T12:25:23.002652 - Rule override: greeting
+2025-11-17T12:25:23.003657 - Generating canned reply for intent: greeting
+2025-11-17T12:25:27.877355 - Predicted intent: symptom_report with confidence: 0.6557423821831252
+2025-11-17T12:25:27.884796 - Extracted symptoms: ['fever'], fever temp: 99.0
+2025-11-17T12:25:27.886205 - Query contains medical symptoms
+2025-11-17T12:25:27.887530 - Query has medical intent: symptom_report with confidence 0.6557423821831252
+2025-11-17T12:25:27.889743 - Non-urgent triage level assigned due to low-grade fever
+2025-11-17T12:25:33.414659 - Predicted intent: symptom_report with confidence: 0.6452951008430197
+2025-11-17T12:25:33.415670 - Extracted symptoms: [], fever temp: None
+2025-11-17T12:25:33.417041 - Query has medical intent: symptom_report with confidence 0.6452951008430197
+2025-11-17T12:25:40.353305 - Predicted intent: symptom_report with confidence: 0.6557423821831252
+2025-11-17T12:25:40.357055 - Extracted symptoms: ['fever'], fever temp: 102.0
+2025-11-17T12:25:40.358078 - Query contains medical symptoms
+2025-11-17T12:25:40.360112 - Query has medical intent: symptom_report with confidence 0.6557423821831252
+2025-11-17T12:25:40.361326 - Emergency triage level assigned due to high fever
+2025-11-17T12:26:05.171747 - Predicted intent: non_medical with confidence: 0.2255556917362098
+2025-11-17T12:26:05.173111 - Overrode intent to med_info based on keywords
+2025-11-17T12:26:05.174364 - Query has medical intent: med_info with confidence 0.2255556917362098
+2025-11-17T12:26:05.176728 - Generating canned reply for intent: med_info
+2025-11-17T12:26:05.177798 - Provided medication info for: ibuprofen
+2025-11-17T12:26:27.218713 - Predicted intent: non_medical with confidence: 0.22094784919169203
+2025-11-17T12:26:27.220706 - Overrode intent to med_info based on keywords
+2025-11-17T12:26:27.222936 - Query has medical intent: med_info with confidence 0.22094784919169203
+2025-11-17T12:26:27.223939 - Generating canned reply for intent: med_info
+2025-11-17T12:26:27.225447 - Provided medication info for: cetirizine
+2025-11-17T12:28:42.959651 - Intent model trained successfully
+2025-11-17T12:28:45.360925 - Intent model trained successfully
+2025-11-17T12:28:56.776850 - User logged out: Suji
+2025-11-17T12:29:11.658458 - New user registered: Latha
+2025-11-17T12:29:18.679016 - Started session for user: Latha
+2025-11-17T12:29:18.680117 - User logged in: Latha
+2025-11-17T12:29:21.379365 - Rule override: greeting
+2025-11-17T12:29:21.381358 - Generating canned reply for intent: greeting
+2025-11-17T12:29:27.345455 - Predicted intent: symptom_report with confidence: 0.6557423821831252
+2025-11-17T12:29:27.353837 - Extracted symptoms: ['fever'], fever temp: 99.0
+2025-11-17T12:29:27.355630 - Query contains medical symptoms
+2025-11-17T12:29:27.356667 - Query has medical intent: symptom_report with confidence 0.6557423821831252
+2025-11-17T12:29:27.358277 - Non-urgent triage level assigned due to low-grade fever
+2025-11-17T12:29:33.781797 - Predicted intent: symptom_report with confidence: 0.6557423821831252
+2025-11-17T12:29:33.785458 - Extracted symptoms: ['fever'], fever temp: 103.0
+2025-11-17T12:29:33.786487 - Query contains medical symptoms
+2025-11-17T12:29:33.787941 - Query has medical intent: symptom_report with confidence 0.6557423821831252
+2025-11-17T12:29:33.789972 - Emergency triage level assigned due to high fever
+2025-11-17T12:29:40.658971 - FAQ match found: what is fever
+2025-11-17T12:29:49.505988 - Predicted intent: non_medical with confidence: 0.2255556917362098
+2025-11-17T12:29:49.507010 - Overrode intent to med_info based on keywords
+2025-11-17T12:29:49.508309 - Query has medical intent: med_info with confidence 0.2255556917362098
+2025-11-17T12:29:49.509384 - Generating canned reply for intent: med_info
+2025-11-17T12:29:49.510460 - Provided medication info for: ibuprofen
+2025-11-17T12:30:01.933718 - Rule override: thanks
+2025-11-17T12:30:01.934787 - Generating canned reply for intent: thanks
+2025-11-17T12:30:04.556766 - Rule override: goodbye
+2025-11-17T12:30:04.557764 - Generating canned reply for intent: goodbye
+2025-11-17T12:30:12.967064 - Predicted intent: general_knowledge with confidence: 0.5323324342590999
+2025-11-17T12:30:16.798662 - Predicted intent: symptom_report with confidence: 0.3310596691474862
+2025-11-17T12:30:16.799745 - Extracted symptoms: [], fever temp: None
+2025-11-17T12:30:22.908747 - Rule override: thanks
+2025-11-17T12:30:22.910256 - Generating canned reply for intent: thanks
+2025-11-17T12:30:26.321291 - User logged out: Latha
+2025-12-02T10:22:39.730058 - Intent model trained successfully
+2025-12-02T10:22:40.742928 - Intent model trained successfully
+2025-12-02T10:23:05.202112 - New user registered: Nandini
+2025-12-02T10:23:23.689484 - Started session for user: Nandini
+2025-12-02T10:23:23.689484 - User logged in: Nandini
+2025-12-02T10:23:28.419620 - Rule override: greeting
+2025-12-02T10:23:28.420649 - Generating canned reply for intent: greeting
+2025-12-02T10:23:33.967060 - Predicted intent: symptom_report with confidence: 0.6557423821831252
+2025-12-02T10:23:33.972529 - Extracted symptoms: ['fever'], fever temp: 98.0
+2025-12-02T10:23:33.973528 - Query contains medical symptoms
+2025-12-02T10:23:33.975872 - Query has medical intent: symptom_report with confidence 0.6557423821831252
+2025-12-02T10:23:33.977312 - Non-urgent triage level assigned due to low-grade fever
+2025-12-02T10:23:49.099420 - Predicted intent: symptom_report with confidence: 0.525255926191249
+2025-12-02T10:23:49.101625 - Extracted symptoms: ['fever'], fever temp: 101.0
+2025-12-02T10:23:49.102634 - Query contains medical symptoms
+2025-12-02T10:23:49.103847 - Query has medical intent: symptom_report with confidence 0.525255926191249
+2025-12-02T10:23:49.104365 - Emergency triage level assigned due to high fever
+2025-12-02T10:23:59.773109 - Predicted intent: symptom_report with confidence: 0.6914136332789564
+2025-12-02T10:23:59.776329 - Extracted symptoms: [], fever temp: None
+2025-12-02T10:23:59.777443 - Query has medical intent: symptom_report with confidence 0.6914136332789564
+2025-12-02T10:24:02.621945 - Predicted intent: symptom_report with confidence: 0.31125600667657966
+2025-12-02T10:24:02.624057 - Extracted symptoms: [], fever temp: None
+2025-12-02T10:24:14.096064 - Predicted intent: symptom_report with confidence: 0.8671050560142171
+2025-12-02T10:24:14.098657 - Extracted symptoms: ['tooth pain'], fever temp: None
+2025-12-02T10:24:14.099774 - Query contains medical symptoms
+2025-12-02T10:24:14.101924 - Query has medical intent: symptom_report with confidence 0.8671050560142171
+2025-12-02T10:24:14.102944 - Non-urgent triage level assigned
+2025-12-02T10:25:17.459989 - Predicted intent: symptom_report with confidence: 0.5746265395626637
+2025-12-02T10:25:17.463254 - Extracted symptoms: ['bleeding'], fever temp: None
+2025-12-02T10:25:17.464322 - Query contains medical symptoms
+2025-12-02T10:25:17.465344 - Query has medical intent: symptom_report with confidence 0.5746265395626637
+2025-12-02T10:25:17.466356 - Urgent triage level assigned due to critical symptoms
+2025-12-02T10:25:49.979827 - Predicted intent: non_medical with confidence: 0.2853462015944543
+2025-12-02T10:26:05.017730 - Predicted intent: symptom_report with confidence: 0.22887228797269443
+2025-12-02T10:26:05.021671 - Extracted symptoms: [], fever temp: None
+2025-12-02T10:26:25.756999 - Predicted intent: symptom_report with confidence: 0.1592321867483935
+2025-12-02T10:26:25.758034 - Extracted symptoms: [], fever temp: None
+2025-12-02T10:26:39.379152 - Predicted intent: symptom_report with confidence: 0.2590943196635007
+2025-12-02T10:26:39.382948 - Extracted symptoms: [], fever temp: None
+2025-12-02T10:27:11.024379 - Predicted intent: ask_advice with confidence: 0.22318784049666318
+2025-12-02T10:27:39.053001 - Predicted intent: med_info with confidence: 0.49236787406859406
+2025-12-02T10:27:39.053001 - Overrode intent to med_info based on keywords
+2025-12-02T10:27:39.054466 - Query has medical intent: med_info with confidence 0.49236787406859406
+2025-12-02T10:27:39.054466 - Generating canned reply for intent: med_info
+2025-12-02T10:27:39.055536 - Provided medication info for: paracetamol
+2025-12-02T10:27:53.920641 - Predicted intent: med_info with confidence: 0.5531740012462849
+2025-12-02T10:27:53.921760 - Overrode intent to med_info based on keywords
+2025-12-02T10:27:53.923351 - Query has medical intent: med_info with confidence 0.5531740012462849
+2025-12-02T10:27:53.924417 - Generating canned reply for intent: med_info
+2025-12-02T10:27:53.925868 - No medication found in query
+2025-12-02T10:28:40.824890 - Predicted intent: med_info with confidence: 0.509109610073242
+2025-12-02T10:28:40.826387 - Overrode intent to med_info based on keywords
+2025-12-02T10:28:40.826387 - Query has medical intent: med_info with confidence 0.509109610073242
+2025-12-02T10:28:40.827554 - Generating canned reply for intent: med_info
+2025-12-02T10:28:40.827554 - Provided medication info for: cetirizine
+2025-12-02T10:28:56.277970 - Predicted intent: med_info with confidence: 0.41749801919174856
+2025-12-02T10:28:56.279058 - Query has medical intent: med_info with confidence 0.41749801919174856
+2025-12-02T10:28:56.281230 - Generating canned reply for intent: med_info
+2025-12-02T10:28:56.282324 - Provided medication info for: ibuprofen
+2025-12-02T10:29:10.875450 - Predicted intent: symptom_report with confidence: 0.8318672009565734
+2025-12-02T10:29:10.875955 - Extracted symptoms: ['chest pain'], fever temp: None
+2025-12-02T10:29:10.877155 - Query contains medical symptoms
+2025-12-02T10:29:10.878492 - Query has medical intent: symptom_report with confidence 0.8318672009565734
+2025-12-02T10:29:10.878492 - Emergency alert triggered: Chest pain / pressure
+2025-12-02T10:29:10.879862 - Emergency triage level assigned
+2025-12-02T10:29:19.305867 - Predicted intent: general_knowledge with confidence: 0.44718528831190546
+2025-12-02T10:30:44.270780 - Predicted intent: symptom_report with confidence: 0.7326966845870054
+2025-12-02T10:30:44.273006 - Extracted symptoms: ['allergies'], fever temp: None
+2025-12-02T10:30:44.275107 - Query contains medical symptoms
+2025-12-02T10:30:44.276105 - Query has medical intent: symptom_report with confidence 0.7326966845870054
+2025-12-02T10:30:44.277101 - Non-urgent triage level assigned
+2025-12-02T10:31:38.591675 - Predicted intent: symptom_report with confidence: 0.4595135832536056
+2025-12-02T10:31:38.592672 - Extracted symptoms: ['runny nose'], fever temp: None
+2025-12-02T10:31:38.592672 - Query contains medical symptoms
+2025-12-02T10:31:38.593977 - Non-urgent triage level assigned
+2025-12-02T10:32:01.615528 - Predicted intent: ask_advice with confidence: 0.6026926098412354
+2025-12-02T10:32:01.617758 - Query has medical intent: ask_advice with confidence 0.6026926098412354
+2025-12-02T10:32:44.866060 - Predicted intent: med_info with confidence: 0.4804633725320407
+2025-12-02T10:32:44.866060 - Query has medical intent: med_info with confidence 0.4804633725320407
+2025-12-02T10:32:44.867074 - Generating canned reply for intent: med_info
+2025-12-02T10:32:44.867074 - Provided medication info for: amoxicillin
+2025-12-02T10:32:59.387868 - Predicted intent: symptom_report with confidence: 0.740740707301337
+2025-12-02T10:32:59.391568 - Extracted symptoms: ['rash'], fever temp: None
+2025-12-02T10:32:59.392609 - Query contains medical symptoms
+2025-12-02T10:32:59.392609 - Query has medical intent: symptom_report with confidence 0.740740707301337
+2025-12-02T10:32:59.394180 - Non-urgent triage level assigned
+2025-12-02T10:33:24.536787 - Predicted intent: general_knowledge with confidence: 0.5263962037918033
+2025-12-02T10:33:30.479438 - Predicted intent: symptom_report with confidence: 0.31486043094892674
+2025-12-02T10:33:30.481648 - Extracted symptoms: [], fever temp: None
+2025-12-02T10:33:55.564046 - Predicted intent: general_knowledge with confidence: 0.8370778890961936
+2025-12-02T10:34:01.112729 - FAQ match found: what is a virus
+2025-12-02T10:34:06.742191 - Predicted intent: general_knowledge with confidence: 0.5263962037918033
+2025-12-02T10:34:14.358040 - Predicted intent: general_knowledge with confidence: 0.5263962037918033
+2025-12-02T10:34:50.598138 - FAQ match found: what is chatbot
+2025-12-02T10:35:47.196867 - Predicted intent: symptom_report with confidence: 0.4016881563563812
+2025-12-02T10:35:47.199892 - Extracted symptoms: ['severe bleeding', 'fever', 'bleeding'], fever temp: None
+2025-12-02T10:35:47.200891 - Query contains medical symptoms
+2025-12-02T10:35:47.202225 - Emergency alert triggered: Severe external bleeding
+2025-12-02T10:35:47.203665 - Emergency triage level assigned
+2025-12-02T10:35:57.962990 - Predicted intent: symptom_report with confidence: 0.4016881563563812
+2025-12-02T10:35:57.964121 - Extracted symptoms: ['bleeding'], fever temp: None
+2025-12-02T10:35:57.965127 - Query contains medical symptoms
+2025-12-02T10:35:57.965127 - Urgent triage level assigned due to critical symptoms
+2025-12-02T10:36:09.007070 - Rule override: thanks
+2025-12-02T10:36:09.008701 - Generating canned reply for intent: thanks
+2025-12-02T10:36:10.298710 - Rule override: goodbye
+2025-12-02T10:36:10.299789 - Generating canned reply for intent: goodbye
+2025-12-02T10:36:13.152743 - User logged out: Nandini
+2025-12-02T13:15:53.573266 - Intent model trained successfully
+2025-12-02T13:15:54.620684 - Intent model trained successfully
+2025-12-02T13:16:12.373822 - Started session for user: Nandini
+2025-12-02T13:16:12.375007 - User logged in: Nandini
+2025-12-03T03:45:59.682638 - Intent model trained successfully
+2025-12-03T03:46:02.014222 - Intent model trained successfully
+2025-12-03T03:46:19.614163 - Started session for user: Surya
+2025-12-03T03:46:19.616295 - User logged in: Surya
+2025-12-03T03:46:34.093505 - Rule override: greeting
+2025-12-03T03:46:34.095674 - Generating canned reply for intent: greeting
+2025-12-03T03:46:47.566188 - Predicted intent: symptom_report with confidence: 0.6557423821831252
+2025-12-03T03:46:47.571637 - Extracted symptoms: ['fever'], fever temp: 101.0
+2025-12-03T03:46:47.572671 - Query contains medical symptoms
+2025-12-03T03:46:47.573687 - Query has medical intent: symptom_report with confidence 0.6557423821831252
+2025-12-03T03:46:47.574877 - Emergency triage level assigned due to high fever
+2025-12-03T03:46:58.496837 - Predicted intent: symptom_report with confidence: 0.6557423821831252
+2025-12-03T03:46:58.499152 - Extracted symptoms: ['fever'], fever temp: 99.0
+2025-12-03T03:46:58.500177 - Query contains medical symptoms
+2025-12-03T03:46:58.501196 - Query has medical intent: symptom_report with confidence 0.6557423821831252
+2025-12-03T03:46:58.502251 - Non-urgent triage level assigned due to low-grade fever
+2025-12-03T03:47:14.171381 - Predicted intent: med_info with confidence: 0.5353336697906713
+2025-12-03T03:47:14.173379 - Overrode intent to med_info based on keywords
+2025-12-03T03:47:14.174379 - Query has medical intent: med_info with confidence 0.5353336697906713
+2025-12-03T03:47:14.175378 - Generating canned reply for intent: med_info
+2025-12-03T03:47:14.176378 - Provided medication info for: ibuprofen
+2025-12-03T03:47:37.653684 - Predicted intent: med_info with confidence: 0.49236787406859406
+2025-12-03T03:47:37.654705 - Overrode intent to med_info based on keywords
+2025-12-03T03:47:37.655806 - Query has medical intent: med_info with confidence 0.49236787406859406
+2025-12-03T03:47:37.656906 - Generating canned reply for intent: med_info
+2025-12-03T03:47:37.657999 - Provided medication info for: paracetamol
+2025-12-03T03:48:00.454386 - User logged out: Surya
+2025-12-03T03:57:30.875203 - New user registered: Nithya
+2025-12-03T03:57:43.337751 - Started session for user: Nithya
+2025-12-03T03:57:43.340070 - User logged in: Nithya
+2025-12-03T03:57:50.489865 - Rule override: greeting
+2025-12-03T03:57:50.490990 - Generating canned reply for intent: greeting
+2025-12-03T03:58:10.394661 - Predicted intent: symptom_report with confidence: 0.7746086066237051
+2025-12-03T03:58:10.397968 - Extracted symptoms: ['fever'], fever temp: 101.0
+2025-12-03T03:58:10.400250 - Query contains medical symptoms
+2025-12-03T03:58:10.402752 - Query has medical intent: symptom_report with confidence 0.7746086066237051
+2025-12-03T03:58:10.403752 - Emergency triage level assigned due to high fever
+2025-12-03T03:58:33.779756 - Predicted intent: symptom_report with confidence: 0.6557423821831252
+2025-12-03T03:58:33.781902 - Extracted symptoms: ['fever'], fever temp: 99.0
+2025-12-03T03:58:33.784173 - Query contains medical symptoms
+2025-12-03T03:58:33.785178 - Query has medical intent: symptom_report with confidence 0.6557423821831252
+2025-12-03T03:58:33.786180 - Non-urgent triage level assigned due to low-grade fever
+2025-12-03T03:59:29.947684 - Predicted intent: med_info with confidence: 0.49236787406859406
+2025-12-03T03:59:29.948704 - Overrode intent to med_info based on keywords
+2025-12-03T03:59:29.949704 - Query has medical intent: med_info with confidence 0.49236787406859406
+2025-12-03T03:59:29.951961 - Generating canned reply for intent: med_info
+2025-12-03T03:59:29.952960 - Provided medication info for: paracetamol
+2025-12-03T04:02:19.872117 - User logged out: Nithya
+2025-12-06T13:05:24.844863 - Intent model trained successfully
+2025-12-06T13:05:28.005322 - Intent model trained successfully
+2025-12-06T13:05:38.557670 - Started session for user: Nandini
+2025-12-06T13:05:38.565655 - User logged in: Nandini
+2025-12-06T13:05:46.528408 - Predicted intent: symptom_report with confidence: 0.7746086066237051
+2025-12-06T13:05:46.534757 - Extracted symptoms: ['fever'], fever temp: None
+2025-12-06T13:05:46.536975 - Query contains medical symptoms
+2025-12-06T13:05:46.536975 - Query has medical intent: symptom_report with confidence 0.7746086066237051
+2025-12-06T13:05:46.539276 - Non-urgent triage level assigned
+2025-12-06T13:06:11.271679 - Predicted intent: med_info with confidence: 0.49236787406859406
+2025-12-06T13:06:11.273728 - Overrode intent to med_info based on keywords
+2025-12-06T13:06:11.274876 - Query has medical intent: med_info with confidence 0.49236787406859406
+2025-12-06T13:06:11.275904 - Generating canned reply for intent: med_info
+2025-12-06T13:06:11.277413 - Provided medication info for: paracetamol
+2025-12-06T13:06:40.100092 - Predicted intent: symptom_report with confidence: 0.8318672009565734
+2025-12-06T13:06:40.103090 - Extracted symptoms: ['chest pain'], fever temp: None
+2025-12-06T13:06:40.104523 - Query contains medical symptoms
+2025-12-06T13:06:40.105813 - Query has medical intent: symptom_report with confidence 0.8318672009565734
+2025-12-06T13:06:40.107323 - Emergency alert triggered: Chest pain / pressure
+2025-12-06T13:06:40.107323 - Emergency triage level assigned
+2025-12-06T13:06:54.008073 - Predicted intent: symptom_report with confidence: 0.7069855403213235
+2025-12-06T13:06:54.012169 - Extracted symptoms: ['runny nose'], fever temp: None
+2025-12-06T13:06:54.013321 - Query contains medical symptoms
+2025-12-06T13:06:54.015247 - Query has medical intent: symptom_report with confidence 0.7069855403213235
+2025-12-06T13:06:54.016489 - Non-urgent triage level assigned
+2025-12-06T13:07:06.992017 - FAQ match found: what is chatbot
+2025-12-06T13:07:11.060978 - FAQ match found: what is fever
+2025-12-06T13:07:20.920521 - Predicted intent: general_knowledge with confidence: 0.47087827710940683
+2025-12-06T13:08:54.736787 - Predicted intent: symptom_report with confidence: 0.44612870238306884
+2025-12-06T13:08:54.741258 - Extracted symptoms: ['fever'], fever temp: None
+2025-12-06T13:08:54.742286 - Query contains medical symptoms
+2025-12-06T13:08:54.744721 - Non-urgent triage level assigned
+2025-12-06T13:09:00.821166 - Predicted intent: symptom_report with confidence: 0.4053266880762307
+2025-12-06T13:09:00.824304 - Extracted symptoms: ['insomnia'], fever temp: None
+2025-12-06T13:09:00.826750 - Query contains medical symptoms
+2025-12-06T13:09:00.827758 - Non-urgent triage level assigned
+2025-12-06T13:23:27.575739 - Intent model trained successfully
+2025-12-06T13:23:30.944247 - Intent model trained successfully
+2025-12-06T13:25:27.424400 - Predicted intent: symptom_report with confidence: 0.8162383662729319
+2025-12-06T13:25:36.164672 - Predicted intent: symptom_report with confidence: 0.7069855403213235
+2025-12-06T13:25:43.210280 - Predicted intent: symptom_report with confidence: 0.7333257235842752
+2025-12-06T13:25:51.534156 - Predicted intent: general_knowledge with confidence: 0.47087827710940683
+2025-12-06T13:25:57.949701 - Predicted intent: symptom_report with confidence: 0.7771054118442267
+2025-12-06T13:26:03.382707 - Predicted intent: med_info with confidence: 0.5353336697906713
+2025-12-06T13:26:05.893970 - Predicted intent: med_info with confidence: 0.5353336697906713
+2025-12-06T13:26:25.064735 - Predicted intent: general_knowledge with confidence: 0.4300754797500006
+2025-12-06T13:26:45.020991 - Predicted intent: symptom_report with confidence: 0.7559209478729307
+2025-12-06T13:27:00.632934 - Predicted intent: med_info with confidence: 0.5353336697906713
+2025-12-06T13:31:36.384658 - Intent model trained successfully
+2025-12-06T13:31:40.360241 - Intent model trained successfully
+2025-12-06T13:33:21.515118 - Predicted intent: greeting with confidence: 0.248430567183194
+2025-12-06T13:33:27.900080 - Predicted intent: symptom_report with confidence: 0.6557423821831252
+2025-12-06T13:34:17.434870 - Intent model trained successfully
+2025-12-06T13:34:19.672619 - Intent model trained successfully
+2025-12-06T14:12:47.060134 - Predicted intent: greeting with confidence: 0.248430567183194
+2025-12-06T14:13:01.306692 - Predicted intent: symptom_report with confidence: 0.6557423821831252
+2025-12-06T14:19:53.186189 - Predicted intent: symptom_report with confidence: 0.8318672009565734
+2025-12-06T14:20:50.347815 - Predicted intent: symptom_report with confidence: 0.5746265395626637
+2025-12-09T07:58:13.651229 - Intent model trained successfully
+2025-12-09T07:58:16.417940 - Intent model trained successfully
+2025-12-09T07:58:36.397175 - Predicted intent: symptom_report with confidence: 0.77616557378314
+2025-12-09T07:58:44.933072 - Predicted intent: symptom_report with confidence: 0.8671050560142171
+2025-12-09T07:59:08.162653 - Predicted intent: symptom_report with confidence: 0.7330513744738226
+2025-12-09T07:59:29.309513 - Predicted intent: symptom_report with confidence: 0.785817770649685
+2025-12-09T08:00:39.905654 - Predicted intent: symptom_report with confidence: 0.6557423821831252
+2025-12-09T08:01:23.005787 - Predicted intent: symptom_report with confidence: 0.6820183273401793
+2025-12-09T08:01:35.305711 - Predicted intent: symptom_report with confidence: 0.7605051560097915
+2025-12-09T08:01:53.832600 - Predicted intent: symptom_report with confidence: 0.7069855403213235
+2025-12-09T08:02:15.884270 - Predicted intent: symptom_report with confidence: 0.7318739405908381
+2025-12-09T08:02:40.646608 - Predicted intent: symptom_report with confidence: 0.77616557378314
+2025-12-09T08:02:53.202397 - Predicted intent: symptom_report with confidence: 0.740740707301337
+2025-12-09T08:03:18.297714 - Predicted intent: symptom_report with confidence: 0.5746265395626637
+2025-12-09T08:03:26.914527 - Predicted intent: symptom_report with confidence: 0.8162383662729319
+2025-12-10T08:16:40.454697 - Intent model trained successfully
+2025-12-10T08:16:44.499633 - Intent model trained successfully
+2025-12-10T08:18:49.936501 - Predicted intent: symptom_report with confidence: 0.3624095744566057
+2025-12-10T08:27:13.443116 - Predicted intent: symptom_report with confidence: 0.6233881007355262
+2025-12-10T12:14:14.063831 - Intent model trained successfully
+2025-12-10T12:14:15.239467 - Intent model trained successfully
+2025-12-10T12:39:00.364465 - Predicted intent: symptom_report with confidence: 0.7613312443964856
+2025-12-10T12:51:14.308968 - Predicted intent: general_knowledge with confidence: 0.4300754797500006
+2025-12-10T12:51:31.041494 - Predicted intent: general_knowledge with confidence: 0.3806101557205895
+2025-12-10T12:51:41.558413 - Predicted intent: general_knowledge with confidence: 0.319691039410572
+2025-12-10T12:51:45.827276 - Predicted intent: general_knowledge with confidence: 0.44524338118102946
+2025-12-10T12:51:50.903850 - Predicted intent: general_knowledge with confidence: 0.33666354406044846
+2025-12-10T12:52:02.395943 - Predicted intent: general_knowledge with confidence: 0.47087827710940683
+2025-12-10T12:52:50.257468 - Predicted intent: ask_advice with confidence: 0.6311142882747879
+2025-12-10T12:53:07.934016 - Predicted intent: symptom_report with confidence: 0.8162383662729319
+2025-12-10T12:54:24.977397 - Predicted intent: ask_advice with confidence: 0.3777861709613021
+2025-12-10T12:54:30.621022 - Predicted intent: symptom_report with confidence: 0.7318739405908381
+2025-12-10T12:54:54.984515 - Predicted intent: ask_advice with confidence: 0.5213900023635475
+2025-12-10T12:55:44.727858 - Predicted intent: symptom_report with confidence: 0.3310596691474862
+2025-12-10T12:55:48.862422 - Predicted intent: symptom_report with confidence: 0.3310596691474862
+2025-12-10T12:55:56.585717 - Predicted intent: symptom_report with confidence: 0.5833558762814518
+2025-12-10T23:43:03.924842 - Intent model trained successfully
+2025-12-10T23:43:06.256412 - Intent model trained successfully
+2025-12-10T23:51:41.314524 - Intent model trained successfully
+2025-12-10T23:51:43.794703 - Intent model trained successfully
+2025-12-10T23:52:43.545900 - Predicted intent: symptom_report with confidence: 0.8671050560142171
+2025-12-10T23:52:51.404759 - Predicted intent: general_knowledge with confidence: 0.8370778890961936
+2025-12-11T07:48:40.756383 - Intent model trained successfully
+2025-12-11T07:48:42.533973 - Intent model trained successfully
+2025-12-11T07:49:39.101753 - Predicted intent: greeting with confidence: 0.248430567183194
+2025-12-11T07:49:48.712989 - Predicted intent: symptom_report with confidence: 0.6557423821831252
+2025-12-11T07:50:14.050130 - Predicted intent: symptom_report with confidence: 0.6557423821831252
+2025-12-11T07:50:37.373579 - Predicted intent: symptom_report with confidence: 0.8318672009565734
+2025-12-11T07:50:50.477822 - Predicted intent: symptom_report with confidence: 0.8042169945123318
+2025-12-11T07:51:10.965675 - Predicted intent: symptom_report with confidence: 0.7859274899603331
+2025-12-11T07:51:27.816202 - Predicted intent: symptom_report with confidence: 0.6223316777640481
+2025-12-11T07:51:47.795832 - Predicted intent: symptom_report with confidence: 0.4016881563563812
+2025-12-11T07:52:02.918922 - Predicted intent: symptom_report with confidence: 0.3753816619358383
+2025-12-11T07:52:06.969188 - Predicted intent: symptom_report with confidence: 0.4074508034142119
+2025-12-11T07:52:18.682017 - Predicted intent: symptom_report with confidence: 0.4595135832536056
+2025-12-11T07:52:40.555296 - Predicted intent: med_info with confidence: 0.509109610073242
+2025-12-11T07:52:40.556344 - Overrode intent to med_info based on keywords
+2025-12-11T09:40:05.484386 - Predicted intent: greeting with confidence: 0.248430567183194
+2025-12-11T09:40:22.659697 - Predicted intent: symptom_report with confidence: 0.6557423821831252
+2025-12-11T09:40:51.281061 - Predicted intent: symptom_report with confidence: 0.8318672009565734
