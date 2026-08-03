@@ -1,0 +1,5 @@
+# Ignore all session files inside this folder
+*
+
+# Keep this .gitignore file so Git tracks the empty folder
+!.gitignore
