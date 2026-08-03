@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.DS_Store
+
+# Local runtime data
+# data/users.txt (unignored to preserve initial user accounts in git)
+data/sessions/*.jsonl
+data/debug.log
+data/*.db
+instance/*.db

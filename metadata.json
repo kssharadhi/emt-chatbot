@@ -1,0 +1,6 @@
+{
+  "name": "EMT Medical Chatbot",
+  "description": "Medical Triage Assistant providing symptom checking, medication information, and session history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
