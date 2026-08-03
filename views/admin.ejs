@@ -1,1 +1,6 @@
-
+<!DOCTYPE html><html><head><title>Admin</title><link rel="stylesheet" href="/css/style.css"></head><body>
+<div class="container"><div class="summary-container"><h2>Admin Dashboard</h2><a href="/chat" class="btn-sm">Back</a>
+<h3>Users</h3><ul><% users.forEach(function(u) { %><li><%= u %></li><% }); %></ul>
+<h3>Debug Logs</h3><pre style="background:#eee;padding:10px;height:300px;overflow:auto"><% debug_logs.forEach(function(l) { %><%= l %>
+<% }); %></pre>
+</div></div></body></html>
