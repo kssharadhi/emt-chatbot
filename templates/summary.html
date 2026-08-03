@@ -1,0 +1,6 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><title>Summary</title><link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}"></head><body>
+<div class="container"><div class="summary-container"><div class="chat-header"><h2>History: {{ username }}</h2><a href="/chat" class="btn-sm">Back</a></div>
+<form action="/delete_history" method="post" style="margin-top:20px"><button class="btn-sm" style="background:#e74c3c;border:none;cursor:pointer">Clear History</button></form>
+<div class="history-table"><table><thead><tr><th>Time</th><th>User</th><th>Bot</th></tr></thead><tbody>
+{% for e in history %}<tr><td>{{ e.timestamp }}</td><td>{{ e.user_message }}</td><td>{{ e.bot_response|striptags }}</td></tr>{% endfor %}
+</tbody></table></div></div></div></body></html>
